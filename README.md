@@ -16,6 +16,7 @@ ________________________________________
 
 ### **Project Phases**
 **Phase 1: Python Data Pipeline**
+
 The pipeline separates data cleaning, transformation, data quality validation into individual stages and finally ingest into DB for further advanced analysis.
 **Pipeline Flow:**
 
@@ -31,6 +32,7 @@ save_credit_data(df)
 ________________________________________
 
  **Phase 2: SQL Analysis**
+ 
 SQL queries to execute complex business logic using core relational database mechanics:
 1. Top Loan Application category
 2. Approval rate per Region
