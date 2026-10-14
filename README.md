@@ -8,8 +8,8 @@ ________________________________________
 
 ## **Tools & Technologies**
 
-1. Python
-2. SQL
+1. SQL
+2. Python
 4. VistudioStudio Code
 5. GitHub
 ________________________________________
