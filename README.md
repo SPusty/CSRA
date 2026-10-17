@@ -10,6 +10,7 @@ ________________________________________
 
 1. SQL
 2. Python
+3. PowerBI
 4. VistudioStudio Code
 5. GitHub
 ________________________________________
@@ -32,9 +33,19 @@ save_credit_data(df)
 ________________________________________
 
  **Phase 2: SQL Analysis**
- 
-SQL queries to execute complex business logic using core relational database mechanics:
+
+SQL queries to execute complex business logic using core relational database mechanics: 
 1. Top Loan Application category
 2. Approval rate per Region
 3. Approval rate per Employment Type
 4. Average Loan Size by Income Group
+
+________________________________________
+
+ **Phase 2: PowerBI Visualsation**
+ 
+Interactive Power BI report:
+1. Card visuals to report key metrics
+2. Interactive Slicers -Region, Credit Risk Tier
+3. Scatter chart to show Income vs Credit Score
+4. Other visuals to show Employment Status and Loan Purpose requested
